@@ -7,9 +7,16 @@ and a extra information as data type preference , time and space complexity
 
 ## 📅 Progress Tracker
 
-| Day | Date       | Topics Covered           | Problems Added                          | Status    |
-|-----|------------|--------------------------|---------------------------------------  |-----------|
-| 00  |            |                          |                                         |           |
+| Day | Topic               | Problem                | Status         |
+|-----|---------------------|------------------------|----------------|
+| 01  | Arrays and hashing  | concatenation of array |    ✅ Done     |
+| 01  | Arrays and hashing  | contains duplicate     |    ✅ Done     |
+| 01  | Arrays and hashing  | two sum                |    ✅ Done     |
+| 01  | Arrays and hashing  | remove element         |    ✅ Done     |
+| 01  | Arrays and hashing  | majority element       |    ✅ Done     |
+| 01  | Arrays and hashing  | valid anagram          |    ✅ Done     |
+|-----|---------------------|------------------------|----------------|
+| --  |                     |                        | ⏳ In Progress |
 ---
 
 ##  📂 How to Read This Repo
