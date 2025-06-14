@@ -15,6 +15,10 @@ and a extra information as data type preference , time and space complexity
 | 01  | Arrays and hashing   | concatenation of array  | ✅ Done       |
 | 01  | Arrays and hashing   | majority element        | ✅ Done       |
 |-----|----------------------|-------------------------|---------------|
+| 02  | Arrays and hashing   | group anagram           | ✅ Done       |
+| 02  | Arrays and hashing   | sort colors             | ✅ Done       |
+| 02  | Arrays and hashing   | sort an array           | ✅ Done       |
+|-----|----------------------|-------------------------|---------------|
 | --  |                      |                         | ⏳ In Progress|
 
 
