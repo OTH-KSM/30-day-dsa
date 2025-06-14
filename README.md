@@ -5,19 +5,18 @@ You'll find the problems organized by topics followed the neetcode 250 structure
 I'll try to give explanation of how i solved the problem the approach i used the steps i followed
 and a extra information as data type preference , time and space complexity 
 
-## 📅 Progress Tracker
+| Day | Topic                | Problem                 | Status        |  
+|-----|----------------------|-------------------------|---------------|
+| 01  | Arrays and hashing   | Two Sum                 | ✅ Done       |
+| 01  | Arrays and hashing   | contains duplicate      | ✅ Done       |
+| 01  | Arrays and hashing   | longest common element  | ✅ Done       |
+| 01  | Arrays and hashing   | remove element          | ✅ Done       |
+| 01  | Arrays and hashing   | valid anagram           | ✅ Done       |
+| 01  | Arrays and hashing   | concatenation of array  | ✅ Done       |
+| 01  | Arrays and hashing   | majority element        | ✅ Done       |
+|-----|----------------------|-------------------------|---------------|
+| --  |                      |                         | ⏳ In Progress|
 
-| Day | Topic               | Problem                | Status         |
-|-----|---------------------|------------------------|----------------|
-| 01  | Arrays and hashing  | concatenation of array |    ✅ Done     |
-| 01  | Arrays and hashing  | contains duplicate     |    ✅ Done     |
-| 01  | Arrays and hashing  | two sum                |    ✅ Done     |
-| 01  | Arrays and hashing  | remove element         |    ✅ Done     |
-| 01  | Arrays and hashing  | majority element       |    ✅ Done     |
-| 01  | Arrays and hashing  | valid anagram          |    ✅ Done     |
-|-----|---------------------|------------------------|----------------|
-| --  |                     |                        | ⏳ In Progress |
----
 
 ##  📂 How to Read This Repo
 
